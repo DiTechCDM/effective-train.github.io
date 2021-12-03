@@ -1,5 +1,4 @@
-{
-    var financialreport = [
+
         {
             "month": "Jan1",
             "revenue": 90,
@@ -42,5 +41,4 @@
             "cost": 20,
             "profit": 60
         }
-    ]
-}
+  
