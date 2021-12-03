@@ -1,5 +1,5 @@
 {
-    "months_temperature" : [
+    months_temperature: [
         {
             "date": "Jan",
             "high": 39,
